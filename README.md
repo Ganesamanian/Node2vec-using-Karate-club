@@ -32,5 +32,7 @@ Directed Graph with nodes and relations from Neo4j
 Nodes clustered after converted to embedding using karate club
 ![embedding](TSNE_plot.png)
 
+You can have an interactive graph created using plotly [here](https://github.com/Ganesamanian/Node2vec-using-Karate-club/blob/main/TSNE%20Plot%20for%20Embedding.html)
 
+HTMLs are not rendered as webpage so download and view in browser for interactive graph
 <p align="right">(<a href="#top">back to top</a>)</p>
